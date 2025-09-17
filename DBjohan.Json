@@ -1,0 +1,59 @@
+{
+        "facturas": [
+            {
+                "contrato_id": 9001,
+                "codigo": "1",
+                "identificacion_contrato": "741852",
+                "nombre_contrato": "PEDRO CAMEJO",
+                "estado": "ACTIVO",
+                "tipo_contrato_de_cobro": "POSTPAGO",
+                "direccion": "",
+                "saldoCredito": 10,
+                "deuda": 1.0
+            },
+            {
+                "contrato_id": 9002,
+                "codigo": "3",
+                "identificacion_contrato": "987654321",
+                "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
+                "estado": "ACTIVO",
+                "tipo_contrato_de_cobro": "POSTPAGO",
+                "direccion": "FLOR AMARILLO",
+                "saldoCredito": 150000,
+                "deuda": 5000.00
+            },
+            {
+                "contrato_id": 9003,
+                "codigo": "3",
+                "identificacion_contrato": "987654321",
+                "nombre_contrato": "ABEL ANTONIO ORTIZ MORA",
+                "estado": "ACTIVO",
+                "tipo_contrato_de_cobro": "POSTPAGO",
+                "direccion": "FLOR AMARILLO",
+                "saldoCredito": 50000,
+                "deuda": 15000.00
+            },
+            {
+                "contrato_id": 9004,
+                "codigo": "3",
+                "identificacion_contrato": "123456789",
+                "nombre_contrato": "FULANITO DETAL",
+                "estado": "ACTIVO",
+                "tipo_contrato_de_cobro": "POSTPAGO",
+                "direccion": "FLOR AMARILLO",
+                "saldoCredito": 75000,
+                "deuda": 25000.00
+            },
+            {
+                "contrato_id": 9005,
+                "codigo": "3",
+                "identificacion_contrato": "123456789",
+                "nombre_contrato": "FULANITO DETAL",
+                "estado": "ACTIVO",
+                "tipo_contrato_de_cobro": "POSTPAGO",
+                "direccion": "FLOR AMARILLO",
+                "saldoCredito": 150250,
+                "deuda": 50000.00
+            }
+        ]
+    }
